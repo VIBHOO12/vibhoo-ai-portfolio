@@ -1,30 +1,4 @@
-// import { motion } from "framer-motion";
-// import FloatingIcons from "./FloatingIcons";
 
-// export default function HeroImage() {
-//   return (
-//     <motion.div
-//       initial={{ opacity: 0, scale: 0.9 }}
-//       animate={{ opacity: 1, scale: 1 }}
-//       transition={{ duration: 0.7 }}
-//       className="relative flex justify-center"
-//     >
-//       <FloatingIcons />
-
-//       <div className="relative">
-
-//         <div className="absolute inset-0 rounded-full bg-blue-500 blur-3xl opacity-20"></div>
-
-//         <img
-//           src="/profile.png"
-//           alt="Vibhoo Vishwakarma"
-//           className="relative w-[420px] rounded-3xl border border-slate-800 shadow-2xl"
-//         />
-
-//       </div>
-//     </motion.div>
-//   );
-// }
 import FloatingIcons from "./FloatingIcons";
 import profile from "../../data/profile";
 import profileImage from "../../assets/images/profile.jpg";
