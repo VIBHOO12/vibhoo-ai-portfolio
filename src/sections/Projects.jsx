@@ -1,37 +1,4 @@
-// import Container from "../components/common/Container";
-// import SectionHeading from "../components/common/SectionHeading";
-// // import SectionTitle from "../components/common/SectionTitle";
-// import ProjectCard from "../components/ui/ProjectCard";
-// import projects from "../data/projects";
 
-// export default function Projects() {
-//   return (
-//     <section
-//       id="projects"
-//       className="bg-slate-950 py-24"
-//     >
-//       <Container>
-
-//         <SectionHeading
-//           subtitle="PROJECTS"
-//           title="Featured Projects"
-//         />
-
-//         <div className="grid gap-8 md:grid-cols-2 lg:grid-cols-3">
-
-//           {projects.map((project) => (
-//             <ProjectCard
-//               key={project.id}
-//               project={project}
-//             />
-//           ))}
-
-//         </div>
-
-//       </Container>
-//     </section>
-//   );
-// }
 import Container from "../components/common/Container";
 import SectionHeading from "../components/common/SectionHeading";
 // import SectionTitle from "../components/common/SectionTitle";
