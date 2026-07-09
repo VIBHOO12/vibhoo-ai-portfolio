@@ -2,7 +2,7 @@ const portfolioData = {
   personal: {
     name: "Vibhoo Vishwakarma",
 
-    title: "Full Stack Java Developer",
+    title: "Frontend Developer | Full Stack Java Developer",
 
     location: "Lucknow, Uttar Pradesh, India",
 
