@@ -10,11 +10,11 @@ const profile = {
     tagline:
       "Building responsive web applications using React, Java and Spring Boot.",
 
-    location: "Lucknow, Uttar Pradesh, India",
+    location: "Kushinagar, Uttar Pradesh, India",
 
-    email: "your@email.com",
+    email: "vibhoovishwakarma@gmail.com",
 
-    phone: "+91 XXXXX XXXXX",
+    phone: "+91 9305646218",
 
     available: true,
   },
