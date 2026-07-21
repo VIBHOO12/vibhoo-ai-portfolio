@@ -17,7 +17,6 @@ const skills = [
       "Java",
       "Spring Boot",
       "REST API",
-      "Hibernate",
     ],
   },
 
@@ -25,7 +24,7 @@ const skills = [
     category: "Database",
     technologies: [
       "MySQL",
-      "MongoDB",
+      
     ],
   },
 
